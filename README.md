@@ -119,6 +119,37 @@
 - Cookies
 - IndexedDB
 
+# System-Design-Interview-Types
+
+- System Design
+- Product Sense
+  - Ability to think in terms of business
+  - Ability to think in terms of Product Manager and product
+  - Ability to think in terms of Design perspective, User experience
+  - Ability to think not only in frontend but also backend side of things
+    - Performance and Optimization
+    - Understanding the challenges the backend is facing
+    - Ability to chip in and having contract discussions with backend team and doing solutioning
+    - Ability to come up with what type of Data & APIs are required to build features
+- UI Architecture
+- Machine Coding / Component Design
+
+![Alt text](./images/system-design-interview-types.png)
+
 # System-Design-Breakdown
+
+- HLD (High Level Design)
+
+  - Discuss about the Functional and Non-Functional Requirements
+  - Prioritize things
+    - Key Functionalities to Rollout as initial Release
+  - Ability to think in terms of User needs
+  - Ability to make right set of Tech choices
+
+- LLD (Low Level Design)
+  - Dive more into granular details of implementation
+  - Build a given Feature (Typeahead, Chat app)
+  - Backend/Forntend communication
+  - Structuring the code
 
 ![Alt text](./images/system-design-breakdown.png)
